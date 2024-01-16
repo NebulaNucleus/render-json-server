@@ -1,15 +1,15 @@
 {
   "user": [
     {
-      "firstname": "sadfdsfsdaf",
-      "lastname": "asdfsafasdfasdfas",
-      "email": "abcdsdfe@gmail.com",
-      "phone": "9875747384",
-      "address": "sdfsafasfsafsfsadf",
-      "password": "12345",
-      "dob": "2024-01-05",
-      "confirmPassword": "12345",
-      "id": 1237
+       "firstname": "Deepan",
+        "lastname": "Muthusamy",
+        "email": "admin12@gmail.com",
+        "phone": "9875847586",
+        "address": "Chennai, perugalatur",
+        "dob": "2024-01-03",
+        "password": "123",
+        "confirmPassword": "123",
+        "id": 1238
     }
   ]
 }
